@@ -17,3 +17,13 @@ Student Name:Buenaflor John Daniel T.
 Course:System Integration and Architecture 1
 
 Section:BSIT-SD-2B
+
+
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
