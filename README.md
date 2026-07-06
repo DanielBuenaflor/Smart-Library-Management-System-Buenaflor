@@ -19,11 +19,14 @@ Course:System Integration and Architecture 1
 Section:BSIT-SD-2B
 
 
-
 Project Modules
 
+- Member Management
 - Book Catalog
+- Borrowing
+- Returning
 - Inventory Management
 - Reports
 - User Accounts
+
 
